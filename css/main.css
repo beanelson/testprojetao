@@ -1,3 +1,85 @@
+<<<<<<< HEAD
+body {
+    background-color: #01052d;
+}
+
+header.TopBar {
+    position: absolute;
+    width: 1366px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+
+    background: #312F6A;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+div.Overview {
+    position: absolute;
+    vertical-align: middle;
+    height: 59px;
+    left: 43.48%;
+    right: 51.46%;
+    top: 2.08%;
+    bottom: 95.83%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 64px;   
+
+    color: rgba(255, 255, 255, 0.5);
+}
+
+div.Graficos {
+    position: absolute;
+    height: 59px;
+    left: 51.61%;
+    right: 43.41%;
+    top: 2.08%;
+    bottom: 95.83%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 64px;   
+
+    color: rgba(255, 255, 255, 0.5);
+}
+
+div.Graficos:hover, div.Overview:hover { 
+    color: rgba(255, 255, 255, 1);
+    border-bottom: 5px solid #ffffff
+}
+
+div.LogoGerdau {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 18px;
+    left: 32px;
+}
+
+div.ConfigButton {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 18px;
+    left: 1322px;
+=======
 body {
     background-color: #01052d;
 }
@@ -39,4 +121,5 @@ div.sidemenu{
 
     background: #232959;
     box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.15);
+>>>>>>> 742823eef6792be6ce68ace2dff414979285668d
 }
